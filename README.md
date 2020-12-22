@@ -1,1 +1,2 @@
-# Project-38-trex-camera
+# trex
+Chrome's trex game created using p5.play
